@@ -1,5 +1,5 @@
-[
-	{	"name": "Alabama",
+[{	
+		"name": "Alabama",
 		"range": "5,001 to 10,000",
 		"casesReported": 6627,
 		"communityTransmission": "Yes, defined area(s)"
@@ -351,5 +351,4 @@
 		"range": "101 to 1,000",
 		"casesReported": 502,
 		"communityTransmission": "Yes, defined area(s)"
-	}
-]
+}]
