@@ -1,0 +1,355 @@
+[
+	{	"name": "Alabama",
+		"range": "5,001 to 10,000",
+		"casesReported": 6627,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Alaska",
+		"range": "101 to 1,000",
+		"casesReported": 341,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "American Samoa",
+		"range": "None",
+		"casesReported": "None",
+		"communityTransmission": "N/A"
+	},
+	{
+		"name": "Arizona",
+		"range": "5,001 to 10,000",
+		"casesReported": 6526,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Arkansas",
+		"range": "1,001 to 5,000",
+		"casesReported": 2941,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "California",
+		"range": "10,001 or more",
+		"casesReported": 42164,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Colorado",
+		"range": "10,001 or more",
+		"casesReported": 13350,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Connecticut",
+		"range": "10,001 or more",
+		"casesReported": 25269,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Delaware",
+		"range": "1,001 to 5,000",
+		"casesReported": 4162,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "District of Columbia",
+		"range": "1,001 to 5,000",
+		"casesReported": 3841,
+		"communityTransmission": "Undetermined"
+	},
+	{
+		"name": "Florida",
+		"range": "10,001 or more",
+		"casesReported": 30680,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Georgia",
+		"range": "10,001 or more",
+		"casesReported": 23410,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Guam",
+		"range": "101 to 1,000",
+		"casesReported": 142,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Hawaii",
+		"range": "101 to 1,000",
+		"casesReported": 550,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Idaho",
+		"range": "1,001 to 5,000",
+		"casesReported": 1897,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Illinois",
+		"range": "10,001 or more",
+		"casesReported": 43903,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Indiana",
+		"range": "10,001 or more",
+		"casesReported": 15012,
+		"communityTransmission": "Undetermined"
+	},
+	{
+		"name": "Iowa",
+		"range": "5,001 to 10,000",
+		"casesReported": 5475,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Kansas",
+		"range": "1,001 to 5,000",
+		"casesReported": 3174,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Kentucky",
+		"range": "1,001 to 5,000",
+		"casesReported": 4074,
+		"communityTransmission": "Undetermined"
+	},
+	{
+		"name": "Louisiana",
+		"range": "10,001 or more",
+		"casesReported": 26832,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Maine",
+		"range": "1,001 to 5,000",
+		"casesReported": 1023,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Marshall Islands",
+		"range": "None",
+		"casesReported": "None",
+		"communityTransmission": "N/A"
+	},
+	{
+		"name": "Maryland",
+		"range": "10,001 or more",
+		"casesReported": 19487,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Massachusetts",
+		"range": "10,001 or more",
+		"casesReported": 54938,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Michigan",
+		"range": "10,001 or more",
+		"casesReported": 37778,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Micronesia",
+		"range": "None",
+		"casesReported": "None",
+		"communityTransmission": "N/A"
+	},
+	{
+		"name": "Minnesota",
+		"range": "1,001 to 5,000",
+		"casesReported": 3602,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Mississippi",
+		"range": "5,001 to 10,000",
+		"casesReported": 6094,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Missouri",
+		"range": "5,001 to 10,000",
+		"casesReported": 6997,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Montana",
+		"range": "101 to 1,000",
+		"casesReported": 449,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Nebraska",
+		"range": "1,001 to 5,000",
+		"casesReported": 3028,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Nevada",
+		"range": "1,001 to 5,000",
+		"casesReported": 4602,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "New Hampshire",
+		"range": "1,001 to 5,000",
+		"casesReported": 1864,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "New Jersey",
+		"range": "10,001 or more",
+		"casesReported": 109038,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "New Mexico",
+		"range": "1,001 to 5,000",
+		"casesReported": 2726,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "New York",
+		"range": "10,001 or more",
+		"casesReported": 282991,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "North Carolina",
+		"range": "5,001 to 10,000",
+		"casesReported": 8830,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "North Dakota",
+		"range": "101 to 1,000",
+		"casesReported": 867,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Northern Marianas",
+		"range": "1 to 100",
+		"casesReported": 14,
+		"communityTransmission": "Undetermined"
+	},
+	{
+		"name": "Ohio",
+		"range": "10,001 or more",
+		"casesReported": 15963,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Oklahoma",
+		"range": "1,001 to 5,000",
+		"casesReported": 3253,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Oregon",
+		"range": "1,001 to 5,000",
+		"casesReported": 2311,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Palau",
+		"range": "None",
+		"casesReported": "None",
+		"communityTransmission": "N/A"
+	},
+	{
+		"name": "Pennsylvania",
+		"range": "10,001 or more",
+		"casesReported": 41165,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Puerto Rico",
+		"range": "1,001 to 5,000",
+		"casesReported": 1371,
+		"communityTransmission": "Undetermined"
+	},
+	{
+		"name": "Rhode Island",
+		"range": "5,001 to 10,000",
+		"casesReported": 7439,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "South Carolina",
+		"range": "5,001 to 10,000",
+		"casesReported": 5490,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "South Dakota",
+		"range": "1,001 to 5,000",
+		"casesReported": 2212,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Tennessee",
+		"range": "5,001 to 10,000",
+		"casesReported": 9698,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Texas",
+		"range": "10,001 or more",
+		"casesReported": 24631,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Utah",
+		"range": "1,001 to 5,000",
+		"casesReported": 4214,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Vermont",
+		"range": "101 to 1,000",
+		"casesReported": 851,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Virgin Islands",
+		"range": "1 to 100",
+		"casesReported": 57,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Virginia",
+		"range": "10,001 or more",
+		"casesReported": 13535,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Washington",
+		"range": "10,001 or more",
+		"casesReported": 13521,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "West Virginia",
+		"range": "1,001 to 5,000",
+		"casesReported": 1053,
+		"communityTransmission": "Yes, defined area(s)"
+	},
+	{
+		"name": "Wisconsin",
+		"range": "5,001 to 10,000",
+		"casesReported": 5911,
+		"communityTransmission": "Yes, widespread"
+	},
+	{
+		"name": "Wyoming",
+		"range": "101 to 1,000",
+		"casesReported": 502,
+		"communityTransmission": "Yes, defined area(s)"
+	}
+]
